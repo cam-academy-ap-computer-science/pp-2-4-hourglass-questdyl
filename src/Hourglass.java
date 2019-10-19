@@ -1,3 +1,18 @@
+/* Grading - Sarah Gilliam
+
+10 pts - Correct Output (must compile and run)
+3 pts - Proper Use of Static Methods
+3 pts - Proper Use of for loops
+3 pts - Pseudocode
+2 pts - Comments
+2 pts - Consistent Layout and Style following Style Guidelines
+0/2 pts - Proper Use of at least one Class Constant
+0/2 pts Extra Credit 
+
+23/25 total points
+Good Job!
+
+*/
 //(I wrote my pseudocode on notebook paper)
 
 public class Hourglass {
